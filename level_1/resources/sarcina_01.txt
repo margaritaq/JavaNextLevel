@@ -1,0 +1,2 @@
+de creat o clasa unde se definesc, initializez variabile de toate tipurile existente in java.
+de printat toate variavilele acestea
